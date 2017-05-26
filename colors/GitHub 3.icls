@@ -344,12 +344,19 @@
     <option name="PY.DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="PY.FUNC_DEFINITION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="PY.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="7d193f" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="ed6a43" />
+        <option name="FOREGROUND" value="d6653e" />
       </value>
     </option>
     <option name="PY.LINE_COMMENT">
@@ -357,11 +364,26 @@
         <option name="FOREGROUND" value="969896" />
       </value>
     </option>
-    <option name="PY.PREDEFINED_DEFINITION" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
-    <option name="PY.PREDEFINED_USAGE" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="PY.PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="86b3" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="PY.PREDEFINED_USAGE">
+      <value>
+        <option name="FOREGROUND" value="86b3" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="PY.SELF_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="ed6a43" />
+        <option name="FOREGROUND" value="d6653e" />
       </value>
     </option>
     <option name="PY.STRING.U" baseAttributes="DEFAULT_STRING" />
