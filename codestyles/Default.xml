@@ -3,7 +3,7 @@
   <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
   <MarkdownNavigatorCodeStyleSettings>
     <option name="WRAP_ON_TYPING" value="1" />
-    <option name="RIGHT_MARGIN" value="72" />
+    <option name="RIGHT_MARGIN" value="-1" />
   </MarkdownNavigatorCodeStyleSettings>
   <Python>
     <option name="OPTIMIZE_IMPORTS_SORT_NAMES_IN_FROM_IMPORTS" value="true" />
