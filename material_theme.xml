@@ -1,0 +1,7 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="selectedTheme" value="ONE_DARK" />
+    <option name="compactSidebar" value="true" />
+    <option name="defaultBackground" value="" />
+  </component>
+</application>
