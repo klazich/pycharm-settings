@@ -4,13 +4,13 @@
     <property name="created">2017-09-06T21:52:43</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2017.2.3.0.0</property>
-    <property name="modified">2017-10-11T19:56:31</property>
+    <property name="modified">2017-10-30T22:01:24</property>
     <property name="originalScheme">Material Theme - One Dark</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Iosevka Term" />
+  <option name="EDITOR_FONT_NAME" value="Iosevka" />
   <option name="EDITOR_LIGATURES" value="true" />
-  <option name="CONSOLE_FONT_NAME" value="Iosevka Term" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <option name="CONSOLE_FONT_SIZE" value="11" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.1" />
