@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[class-movie] - ...\inception.json'" />
-    <option name="defaultScopeName" value="File '[class-movie] - ...\inception.json'" />
+    <option name="customScope" value="File '...\endpoints_tester.py [lesson-16]'" />
+    <option name="defaultScopeName" value="File '...\endpoints_tester.py [lesson-16]'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[class-movie] - ...\inception.json'" />
+    <option name="SEARCH_SCOPE" value="File '...\endpoints_tester.py [lesson-16]'" />
   </component>
 </application>
